@@ -357,7 +357,7 @@ function typeMessage() {
         "Kadaisi varaikkum entha ithir paarpukalum illama antha ithaiyam kathurukkum.. ! 🕊❤",
         "So eppavume Happy-ah iru 😊",
         "Ellame nallapadiyaa nadakkum 🙏✨",
-        "Happy Birthday, Sasmitha! ❤🎉"
+        "Happy Birthday, ❤🎉"
     ];
     
     const typingText = document.getElementById('typingText');
@@ -724,4 +724,5 @@ function shareOnSocial(platform) {
             }, 2000);
           }, i * 300);
         }
+
       }
