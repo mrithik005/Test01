@@ -346,18 +346,16 @@ function createPetals() {
 // Function to type out message
 function typeMessage() {
     const messages = [
-        "Hey Birthday Girl, 🎂✨",
-        "Oru sila peru namma life-la romba special person-na iruppanga... 💖",
-        "Avangala paakum pothum sari !, Avangala pathi nenaikkum pothum sari ! 😊💕",
-        "Manasukkulla avvolavu Happy-ah irukkum... 🌸💫",
-        "Avanga happy-ya irukkuratha pathe, Nammaloda pirachanaiyalaam marathu nammalum Happy aayduvom... 😇🤍",
-        "Aana ithula irukka Beauty ennanaa..? ✨💭",
-        "Antha special person-ke theriyathu, Namma santhosatha paathu innoru ithaiyam santhosham paduthunu.. ! 💓🥹",
-        "Antha ithaiyathukku vena athu theriyama irukkalaam, Aana Intha ithaiyam enrum avalai marakkathu.. ! 💞🌷",
-        "Kadaisi varaikkum entha ithir paarpukalum illama antha ithaiyam kathurukkum.. ! 🕊❤",
-        "So eppavume Happy-ah iru 😊",
-        "Ellame nallapadiyaa nadakkum 🙏✨",
-        "Happy Birthday, ❤🎉"
+        "oru sila peru ", 
+        "namma valkai lla unexpected uhh varuvanganu solluvanga apdi patta person tha  nii ", 
+        "yaa life lla vantha piragu  tha naa  romba happy uh irukke", 
+        "so innaikku nii happy ah iru", 
+        "evlo kastam vanthalum naa oo kuda senthu antha kasta tha face panna irupe", 
+        "love you dii pondati 😘 and i miss you🥺", 
+        "onakkaga naa epaum irupe  and onakkaga matum yen ethayam thudikum ", 
+        "yenakku oru dream  oo kuda oru bike ride  poonum tha romba nall aasai", 
+        "naa bike edutha apa oo kitta tha motha kattanum nu aasa patte ana kaata mudiyalla SORRY ", 
+        "again wish you many more happy returns of the day my loveable pondati 😘❤️‍🔥"
     ];
     
     const typingText = document.getElementById('typingText');
