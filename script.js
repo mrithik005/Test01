@@ -346,7 +346,17 @@ function createPetals() {
 // Function to type out message
 function typeMessage() {
     const messages = [
-        
+        "oru sila peru "
+        "namma valkai lla unexpected uhh varuvanganu solluvanga apdi patta person tha  nii "
+        "yaa life lla vantha piragu  tha naa  romba happy uh irukke"
+        "so innaikku nii happy ah iru"
+        "evlo kastam vanthalum naa oo kuda senthu antha kasta tha face panna irupe"
+        "love you dii pondati 😘 and i miss you🥺"
+        "onakkaga naa epaum irupe  and onakkaga matum yen ethayam thudikum "
+        "yenakku oru dream  oo kuda oru bike ride  poonum tha romba nall aasai"
+        "naa bike edutha apa oo kitta tha motha kattanum nu aasa patte ana kaata mudiyalla SORRY "
+        "again wish you many more happy returns of the day my loveable pondati 😘❤️‍🔥"
+    
     ];
     
     const typingText = document.getElementById('typingText');
